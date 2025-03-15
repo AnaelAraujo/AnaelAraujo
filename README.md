@@ -8,4 +8,3 @@
 - 📫 Me siga no Instagram @2Diferent_eyes, lá posto meus desenhos
 - 😄 Ele/dele
 - ⚡ Pra felicidade de poucos... eu ainda existo.
-<bgcolor= darkgreen>

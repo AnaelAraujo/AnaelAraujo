@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instituto Luz de Lô</title>
+</head>
+<body>
+    <h1>Instituto Luz de Lô</h1>
+    <h3>Ajude-nos a levar amor para pessoas que estão em tratamento oncológico.</h3>
+    <br>
+    <img width= "200" src="img/img1.png" alt="Foto da Louise">
+    <p>Menção: (A ser preenchida pela fundadora da ONG, aqui deve conter uma menção que 
+        ela escreverá contando sobre a Louise)
+    </p>
+    <p>-Waldilene Pagna (fundadora)</p>
+    <br>
+    <button>Doe agora</button> <button>Quero ser voluntário</button> <button>Preciso de Ajuda</button>
+    <h2>Seu apoio faz a diferença</h2>
+    <!--VIDEO-->
+    <p>(video)</p>
+    <!--VIDEO-->
+    <h2>Conheça o Instituto</h2>
+    <br>
+    <p> O Instituto Luz de Lô tem como objetivo acolher e transformar, auxiliar
+        mulheres que  possuem um diagnóstico de câncer, seja em estágios iniciais, avançados ou em 
+        recidiva que estão em tratamento oncológico, trabalhamos oferecendo tratamento 
+        terapêutico e psicológico além da importante assistência com doação de fraldas e 
+        tecidos para as mulheres.
+        Nossa maior inspiração foi uma incrível mulher: Louise Caroline, que lutou contra o 
+        câncer e inspirou todos ao se redor, deixando incríveis lembranças sobre ela, e sendo 
+        uma luz guia para todas nós nessa terra, e que nunca ira parar de guiar todas nós.
+    </p>
+    <img width= "200" src="img/img2.png" alt="Foto da Louise & Família">
+    <br>
+    <p> Cada ação feita por nós carrega um propósito especial de trazer acolhimento, força,  
+        carinho e esperança para quem luta todos os dias nessa batalha, nenhuma mulher 
+        precisa lutar sozinha, nesse mundo seremos uma luz forte.
+    </p>
+    <table>
+        <thead>
+            <tr>
+                <th><h2>Missão</h2></th>
+                <th><h2>Visão</h2></th>
+                <th><h2>Valores</h2></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    Acolher e transformar a vida de mulheres com câncer, por meio de 
+                    acompanhamento psicológico, terapias e doações de fraldas e tecidos, 
+                    promovendo dignidade, força e esperança em cada etapa da luta.
+                </td>
+                <td>
+                    Ser referência no acolhimento e apoio a mulheres com câncer em todo 
+                    o Brasil, ampliando nosso alcance com empatia, cuidado e responsabilidade 
+                    social.
+                </td>
+                <td>
+                    <strong>Empatia:</strong> Olhar com o coração e entender a dor do outro.
+                    <strong>Solidariedade:</strong> Estar presente com amor, atitude e prazer.
+                    <strong>Respeito:</strong> Valorizar cada história com dignidade e cuidado.
+                    <strong>Transformação:</strong> Fazer do acolhimento um agente de mudança.
+                    <strong>Memória Viva:</strong> Honrar a trajetória de Louise Caroline, nossa eterna 
+                    inspiração.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h2>Nossos Projetos</h2>
+    <br>
+    <h3>Oficina de Costura</h3>
+    <p> Na oficina de costura, cada linha interliga a algo e um propósito,  
+        cada um dos tecidos carregam amor e transformam vidas
+    </p>
+    <img width= "200" src="img/img3.png" alt="Foto da Oficina">
+    <h3>Doações:</h3>
+    <p> As doações são muito importantes para nós, com elas conseguimos  
+        recursos e os transformamos em amor e carinho.
+    </p>
+    <img width= "200" src="img/img4.png" alt="Foto de Doações">
+    <br>
+    <h3>Arteterapia:</h3>
+    <p> Cada pincelada é uma forma de se expressar, cada cor é uma emoção  
+        que foi colocada, só palavras não conseguem descrever tudo o que guardamos 
+        no peito.
+    </p>
+    <img width= "200" src="img/img5.png" alt="Foto da Louise & Família">
+    <br><br>
+    <p> Se você deseja se tornar uma luz na vida de alguém, se voluntarie ou doe!
+        Pois assim podemos distribuir amor, respeito e carinho para todas essas mulheres 🦋
+    </p>
+    <br>
+    <h4>Apoiadores</h4>
+    <!--APOITADORES-->
+    <p>Apoiador Apoiador Apoiador Apoiador Apoiador Apoiador</p>
+    <p>Apoiador Apoiador Apoiador Apoiador Apoiador Apoiador</p>
+    <!--APOITADORES-->
+    <br>
+    <p>55 16 99913-3596</p>
+    <p>email do instituto</p>
+    <p>Rua Couto Magalhães 2109 - Centro - Franca - SP</p>
+</body>
+</html>

@@ -9,7 +9,7 @@
 - 😄 Ele/dele
 - ⚡ Pra felicidade de poucos... eu ainda existo.
 <p align="center">
-  <img src="https://github-readme-stats-beige-mu-66.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-beige-mu-66.vercel.app/api?username=AnaelAraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
   <p align="center">

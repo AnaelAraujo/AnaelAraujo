@@ -14,7 +14,7 @@
 
   <p align="center">
   <img 
-    src="https://github-readme-stats-beige-mu-66.vercel.app/api/top-langs/?username=Moiseskennedy&hide_border=true&layout=compact&hide_title=true&bg_color=0d1117&title_color=ffffff&text_color=9fadc0" 
+    src="https://github-readme-stats-beige-mu-66.vercel.app/api/top-langs/?username=AnaelAraujo&hide_border=true&layout=compact&hide_title=true&bg_color=0d1117&title_color=ffffff&text_color=9fadc0" 
     style="object-fit: cover; 
     object-position: center"
   />

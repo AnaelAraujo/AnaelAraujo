@@ -5,7 +5,7 @@
 - 👯 Tenho interesse em games, animação e música
 - 🤔 Procuro ajuda de pessoas que tenham 1 ou mais interesses em comum (e GML)
 - 💬 Pergunte-me sobre meu dia! (ou meus gostos)
-- 📫 músico de plantão! <a link=https://open.spotify.com/intl-pt/artist/26Kejl4OEAhCKK3CECK0Wd>2Diferent Eyes</a>
+- 📫 músico de plantão! <a href="https://open.spotify.com/intl-pt/artist/26Kejl4OEAhCKK3CECK0Wd">2Diferent Eyes</a>
 - 😄 Ele/dele
 <p align="center">
   <img src="https://github-readme-stats-beige-mu-66.vercel.app/api?username=AnaelAraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
